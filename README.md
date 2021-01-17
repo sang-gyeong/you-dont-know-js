@@ -28,27 +28,30 @@
 
 - [x]  var vs let vs const
 - [x]  IIFE
-- [ ]  모듈 시스템
 
 1/16
 
-- [ ]  콜스택과 힙
+- [x]  모듈 시스템
+- [x]  콜스택과 힙
+
+1/17
+
 - [ ]  이벤트 루프
 - [ ]  프로토타입
 
-1/17
+1/18
 
 - [ ]  엄격 모드
 - [ ]  new의 동작방식
 - [ ]  ES6의 특징들
 
-1/18
+1/19
 
 - [ ]  ES6+의 특징들
 - [ ]  Ajax
-- [ ]  이벤트 위임
+- [ ]  클래스
 
-1/18
+1/20
 
 - [ ]  질문 리스트 정리하기
 
@@ -76,8 +79,15 @@
 
 [✏️ IIFE](https://www.notion.so/IIFE-d25260719e6843568586142fd6a7f9f4)
 
+[✏️ 모듈시스템 : CommonJS, AMD, UMD, ES6](https://www.notion.so/CommonJS-AMD-UMD-ES6-b7a49f30a567406faff2e1f15ff00b03)
 
+[✏️ 콜 스택(Call stack)과 힙(Heap)](https://www.notion.so/Call-stack-Heap-c26c69fe233c40648d802382f7ab9959)
+  
+  
+    
 
+    
+  
 ### Reference
 * https://github.com/baeharam/Must-Know-About-Frontend
 * https://poiemaweb.com/
