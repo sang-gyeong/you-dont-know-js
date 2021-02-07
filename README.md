@@ -36,8 +36,8 @@
 
 1/17
 
-- [ ]  이벤트 루프
-- [ ]  프로토타입
+- [x]  이벤트 루프
+- [x]  프로토타입
 
 1/18
 
@@ -83,7 +83,9 @@
 
 [✏️ 콜 스택(Call stack)과 힙(Heap)](https://www.notion.so/Call-stack-Heap-c26c69fe233c40648d802382f7ab9959)
   
-  
+[✏️ 이벤트 루프 (Event loop)](https://www.notion.so/Event-loop-b61b8fb57f1f4a2b97df33b050ea4bba)
+
+[✏️ 프로토타입 (Prototype)](https://www.notion.so/Prototype-66f5a1ce467a43408a854211723294b0)
     
 
     
